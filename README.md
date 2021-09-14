@@ -1,3 +1,4 @@
-# TSK_Task1
-Prediction using supervised machine learning
-TASK OBJECTIVE: PREDICT THE PERCENTAGE OF STUDENTS BASED ON NO. OF HOURS OF STUDY AND ALSO PREDICT THE SCORE IF A STUDENT STUDIES FOR 9.25 HRS/DAY
+# TSF_Task1_Prediction-using-supervised-machine-learning
+Objective: 
+<br>Predict the percentage of students based on no. of hours of study
+<br>Predict the score if a student studies for 9.25 hrs/day
